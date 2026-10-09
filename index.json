@@ -1,0 +1,11 @@
+{
+  "org": "modelcontextprotocol",
+  "repo": "example-remote-server",
+  "versions": [
+    {
+      "commit": "ca6133a4e63d22e2c035defa691d241ce22296a9",
+      "tag": "main",
+      "parsed_at": "2026-10-09T04:05:32.954598+00:00"
+    }
+  ]
+}
